@@ -4,7 +4,7 @@
  - Droid Assistant Bot.
 
 ### I’m interested in:
- - C/C++, Python, ASM, JS
+ - C/C++, Python, ASM
  - Reverse Engineering, GameDev, Network Security, WebDev
 
 ### I’m currently learning:
