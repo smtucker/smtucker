@@ -8,6 +8,7 @@
  - Reverse Engineering, GameDev, Network Security, WebDev
 
 ### I’m currently studying:
+ - MongoDB
  - GODOT Engine
  - Horizontal Scaling Systems
 
