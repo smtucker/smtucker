@@ -4,12 +4,12 @@
  - Droid Assistant Bot.
 
 ### I’m interested in:
- - C/C++, Python, ASM
+ - C/C++, Python, ASM, 
  - Reverse Engineering, GameDev, Network Security, WebDev
 
-### I’m currently learning:
- - JavaScript
- - FLASK
+### I’m currently studying:
+ - GODOT Engine
+ - Horizontal Scaling Systems
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smtucker&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
